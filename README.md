@@ -1,1 +1,3 @@
 # Market-Basket-Analysis-using-Apriori-Algorithm
+
+This repository includes Python scripts and CSV dataset files for conducting market basket analysis using the Apriori algorithm. Market basket analysis is a data mining technique used to uncover patterns of co-occurrence among items in transactional data, commonly applied in retail for understanding customer purchasing behavior. The repository provides efficient Apriori algorithm implementations, dataset preprocessing utilities, and visualization tools for interpreting association rules. By identifying frequent itemsets and generating actionable insights, this toolkit empowers retailers and analysts to optimize product placement, cross-selling strategies, and promotional campaigns based on transactional data.
